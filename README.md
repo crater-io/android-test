@@ -10,10 +10,12 @@ The test is designed to be implemented by a strong Android programmer in a coupl
 
 In this code test, you will design and implement a native Android app for the Yahoo Weather API.
 
-This application is expected to implement the following functionality, in order of importance:
+This application is expected to implement the following functionality:
 
 1. A way for loading and managing data from a simple backend API.
 2. A screen that lists all of the data returned by the API.
+
+Sepnd no more than two hours to implement the application. It is not expected that you'll finish the application.
 
 ### Requirements
 
@@ -29,3 +31,5 @@ This application is expected to implement the following functionality, in order 
     + Humidity
     + Pressure
     + Sunrise/Sunset Time
++ Summarize the remaining (unimplemented) tasks or features that you would implement assuming you had more time. 
+
