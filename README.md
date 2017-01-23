@@ -19,7 +19,8 @@ Sepnd no more than two hours to implement the application. It is not expected th
 
 ### Requirements
 
-+ Use the the included `weather.json` file as your datasource (sample data from [Yahoo's Weather API](https://developer.yahoo.com/weather/))
++ Look at the  the included `weather.json` file as your datasource
++ Implement the data from [Yahoo's Weather API](https://developer.yahoo.com/weather/))
 + Show the "current" conditions for the user's current location:
   + Location (ie. New York, NY, USA)
   + Current weather description (ie. sunny)
